@@ -7,7 +7,7 @@
 
 rm(list = ls()) # start with a clean environment
 set.seed(123) # to get repeatable results with random numbers
-setwd("~/fau/cap5615/homework3")
+setwd("~/fau/cap5615/assignment3")
 
 network_error <- function(training_data, weights) {
   label_index <- length(training_data[1, ])
