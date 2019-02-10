@@ -1,0 +1,16 @@
+Outlook,Temperature,Humidity,Wind,Class
+Overcast,Hot,High,Weak,Yes
+Overcast,Cool,Normal,Strong,Yes
+Overcast,Mild,High,Strong,Yes
+Overcast,Mild,Normal,Weak,No
+Rain,Mild,High,Weak,Yes
+Rain,Cool,Normal,Weak,Yes
+Rain,Cool,Normal,Strong,No
+Rain,Mild,Normal,Weak,Yes
+Rain,Hot,High,Strong,Yes
+Rain,Mild,High,Strong,No
+Sunny,Hot,High,Weak,No
+Sunny,Hot,High,Strong,No
+Sunny,Mild,High,Weak,No
+Sunny,Cool,Normal,Weak,Yes
+Sunny,Mild,Normal,Strong,Yes
